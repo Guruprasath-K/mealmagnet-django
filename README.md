@@ -56,6 +56,10 @@ Once the development server is running, you can access the application at `http:
 
 You can access the Django admin panel at `http://localhost:8000/admin` to manage site content.
 
+## Screenshots
+
+<img src="img/Screenshot 2024-02-16 172815.png">
+
 ## Contributing
 
 Contributions are welcome! Please read the [Contributing Guidelines](CONTRIBUTING.md) for more information on how to contribute to this project.
