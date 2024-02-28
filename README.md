@@ -59,6 +59,8 @@ You can access the Django admin panel at `http://localhost:8000/admin` to manage
 ## Screenshots
 
 <img src="img/Screenshot 2024-02-16 172815.png">
+<br/>
+<img src="img/Screenshot 2024-02-16 172847.png">
 
 ## Contributing
 
